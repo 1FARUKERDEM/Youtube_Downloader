@@ -99,9 +99,9 @@ def download_worker(url):
 
 btn_row = tk.Frame(root, padx=12, pady=6)
 btn_row.pack(fill="x")
-download_btn = tk.Button(btn_row, text="İndir", width=14, height=2, command=start_download)
+download_btn = tk.Button(btn_row, text="İndir",fg="red", width=14, height=2, command=start_download)
 download_btn.pack(side="left")
-open_btn = tk.Button(btn_row, text="Klasörü Aç", width=14, command=open_folder)
+open_btn = tk.Button(btn_row, text="Klasörü Aç",  width=14, command=open_folder,fg="red")
 open_btn.pack(side="right")
 
 root.bind("<Return>", lambda e: start_download())
