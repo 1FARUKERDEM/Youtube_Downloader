@@ -24,7 +24,7 @@ It is entirely a learning and practice project. 🙂
    cd youtube_downloader
 
 
-# 🎬 Youtube Downloader
+# 🎬 Youtube Video İndirici
 Simple YouTube video downloader with a Tkinter GUI (Python + yt-dlp).
 
 Basit bir YouTube video indirme aracı, **Python Tkinter** ve **yt-dlp** kullanılarak geliştirilmiştir.  
