@@ -22,3 +22,30 @@ Tamamen öğrenme ve deneme amaçlı bir çalışmadır. 🙂
    ```bash
    git clone <repo-link>
    cd youtube_downloader
+
+
+   # 🎬 YouTube Downloader
+Simple YouTube video downloader with a Tkinter GUI (Python + yt-dlp).
+
+A basic YouTube video downloading tool built with **Python Tkinter** and **yt-dlp**.  
+This project was created **for educational purposes**, to practice Python GUI development and working with external libraries.  
+The coding process was carried out step by step with guidance from **ChatGPT**.  
+It is entirely a learning and practice project. 🙂
+
+---
+
+## ✨ Features
+- Download videos by pasting a YouTube link  
+- Save videos to a chosen folder  
+- Simple Tkinter-based GUI  
+- Shows download status in the window  
+- Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp) (active fork of youtube-dl)  
+
+---
+
+## 📖 Usage
+1. Clone the project or download the files:
+   ```bash
+   git clone <repo-link>
+   cd youtube_downloader
+
